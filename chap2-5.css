@@ -21,9 +21,49 @@ header{
   border-left-width: 0;
 }
 
-.nav-list-item{
+.nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 20px;
-
+  margin: 0 20px;
 }
+
+.main {
+  width: 800px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  background-color: pink;
+}
+
+
+.content1 {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+
+.content2 {
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+
+.content3 {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+
+.content4 {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+
+.content5 {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+
